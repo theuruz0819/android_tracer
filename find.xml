@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\app\src\main\java\com\prophetdigits\android\brandcloud\fragment\ForgetPasswordFragment.java [app]'" />
-    <option name="defaultScopeName" value="File '...\app\src\main\java\com\prophetdigits\android\brandcloud\fragment\ForgetPasswordFragment.java [app]'" />
+    <option name="customScope" value="File '...\app\src\main\java\com\prophetdigits\android\brandcloud\fragment\ResetPasswordFragment.java [app]'" />
+    <option name="defaultScopeName" value="File '...\app\src\main\java\com\prophetdigits\android\brandcloud\fragment\ResetPasswordFragment.java [app]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\app\src\main\java\com\prophetdigits\android\brandcloud\fragment\ForgetPasswordFragment.java [app]'" />
+    <option name="SEARCH_SCOPE" value="File '...\app\src\main\java\com\prophetdigits\android\brandcloud\fragment\ResetPasswordFragment.java [app]'" />
   </component>
 </application>
