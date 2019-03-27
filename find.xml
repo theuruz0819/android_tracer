@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\app\src\main\java\com\prophetdigits\android\brandcloud\adapter\VariantFilterAdapter.java [app]'" />
-    <option name="defaultScopeName" value="File '...\app\src\main\java\com\prophetdigits\android\brandcloud\adapter\VariantFilterAdapter.java [app]'" />
+    <option name="customScope" value="File '...\app\src\main\java\com\prophetdigits\android\brandcloud\realm\VariantController.java [app]'" />
+    <option name="defaultScopeName" value="File '...\app\src\main\java\com\prophetdigits\android\brandcloud\realm\VariantController.java [app]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\app\src\main\java\com\prophetdigits\android\brandcloud\adapter\VariantFilterAdapter.java [app]'" />
+    <option name="SEARCH_SCOPE" value="File '...\app\src\main\java\com\prophetdigits\android\brandcloud\realm\VariantController.java [app]'" />
   </component>
 </application>
