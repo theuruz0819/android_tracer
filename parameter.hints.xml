@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.prophetdigits.android.brandcloud.app.BrandCloudFragment.showProgressDialog(title,message)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
