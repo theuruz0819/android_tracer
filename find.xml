@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\app\src\main\java\com\prophetdigits\android\brandcloud\fragment\GiveDiscountFragment.java [app]'" />
-    <option name="defaultScopeName" value="File '...\app\src\main\java\com\prophetdigits\android\brandcloud\fragment\GiveDiscountFragment.java [app]'" />
+    <option name="customScope" value="File '...\app\src\main\res\layout\fragment_give_discount.xml [app]'" />
+    <option name="defaultScopeName" value="File '...\app\src\main\res\layout\fragment_give_discount.xml [app]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\app\src\main\java\com\prophetdigits\android\brandcloud\fragment\GiveDiscountFragment.java [app]'" />
+    <option name="SEARCH_SCOPE" value="File '...\app\src\main\res\layout\fragment_give_discount.xml [app]'" />
   </component>
 </application>
